@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 5616 3744">
+      <image width="5616" height="3744" xlink:href="Welcome-image.jpg"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 5472 3648">
+      <image width="5472" height="3648" xlink:href="Welcome-image2.jpg"/>
+    </pattern>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#5a5a5a"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="134" height="5" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Welcome">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Welcome" clip-path="url(#clip-Welcome)">
+    <rect width="375" height="812" fill="#fff"/>
+    <g id="welcome_-_background" data-name="welcome - background" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+      <rect width="375" height="812" stroke="none"/>
+      <rect x="0.5" y="0.5" width="374" height="811" fill="none"/>
+    </g>
+    <rect id="welcome_-_center" data-name="welcome - center" width="375" height="320" transform="translate(0 420)" fill="url(#pattern-2)"/>
+    <rect id="Rectangle_1650" data-name="Rectangle 1650" width="375" height="235" transform="translate(0 185)" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="Believe_Yourself_" data-name="Believe
+Yourself  " transform="translate(46 284)" fill="#f1c40e" font-size="56" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Believe</tspan><tspan x="0" y="56" xml:space="preserve">Yourself  </tspan></text>
+    <text id="Train_like_a_pro" data-name="Train like a pro" transform="translate(46 383)" fill="#f3f3f3" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Train like a pro</tspan></text>
+    <line id="Line_51" data-name="Line 51" x2="31.047" transform="translate(0.453 376.75)" fill="none" stroke="#f3f3f3" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle_1638" data-name="Rectangle 1638" width="375" height="812" fill="none"/>
+    <g id="Status_Bar" data-name="Status Bar" transform="translate(-9 -6)">
+      <g id="Battery" transform="translate(336 17)">
+        <g id="Border" transform="translate(0 0.333)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+          <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+          <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+        </g>
+        <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(23 4)" opacity="0.4"/>
+        <rect id="Capacity" width="18" height="7.333" rx="1.333" transform="translate(2 2.333)"/>
+      </g>
+      <path id="Wifi" d="M7.637,10.966a.313.313,0,0,1-.221-.093l-2-2.016a.313.313,0,0,1,.01-.456,3.421,3.421,0,0,1,4.419,0,.311.311,0,0,1,.1.226.315.315,0,0,1-.094.23l-2,2.016A.308.308,0,0,1,7.637,10.966Zm3.508-3.538a.312.312,0,0,1-.214-.085,4.9,4.9,0,0,0-6.585,0,.312.312,0,0,1-.214.085.308.308,0,0,1-.22-.091L2.758,6.17a.322.322,0,0,1,0-.459,7.158,7.158,0,0,1,9.752,0,.322.322,0,0,1,.1.229.326.326,0,0,1-.094.23L11.364,7.337A.309.309,0,0,1,11.145,7.428ZM13.8,4.743a.3.3,0,0,1-.214-.087,8.64,8.64,0,0,0-11.907,0,.3.3,0,0,1-.214.087.308.308,0,0,1-.22-.091L.094,3.486a.322.322,0,0,1,0-.456,10.9,10.9,0,0,1,15.08,0,.325.325,0,0,1,.1.228.319.319,0,0,1-.094.229L14.023,4.652A.307.307,0,0,1,13.8,4.743Z" transform="translate(315.694 17.331)"/>
+      <path id="Cellular_Connection" data-name="Cellular Connection" d="M16,10.667H15a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,16,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1V3.334a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,11.334,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v4A1,1,0,0,1,6.666,10.667ZM2,10.667H1a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1v2A1,1,0,0,1,2,10.667Z" transform="translate(293.667 17.667)"/>
+      <g id="Time_Style" data-name="Time Style" transform="translate(21 9)">
+        <text id="_Time" data-name="↳ Time" transform="translate(0 5.33)" font-size="15" font-family="Helvetica" letter-spacing="0em"><tspan x="12.41" y="12">9:41</tspan></text>
+      </g>
+    </g>
+    <g id="Home_Indicator" data-name="Home Indicator" transform="translate(121 799)" clip-path="url(#clip-path)">
+      <rect id="Shape" width="134" height="5" rx="2.5" opacity="0.2"/>
+    </g>
+    <rect id="Rectangle_1639" data-name="Rectangle 1639" width="178" height="50" rx="25" transform="translate(99 714)" fill="#f1c40e"/>
+    <text id="Start_training" data-name="Start training" transform="translate(188 744)" fill="#111" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="-61.152" y="0">START TRAINING</tspan></text>
+  </g>
+</svg>
